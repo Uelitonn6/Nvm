@@ -1,0 +1,14 @@
+{
+  "name": "nvm",
+  "version": "1.0.0",
+  "description": "<strong>nvm install 20<strong> => Instala a versão mais recente do Node.js 20</br>\r <strong>nvm install --lts</strong> => Instala a versão long-term support (Versão recomendada)</br>\r <strong>nvm list</strong> => Vai listar as versões do Node.js</br>\r <strong>nvm use 18</strong> => Use a 18 que está instalado na minha máquina</br>\r <strong>nvm alias default 18</strong> => Define a versão padrão do Node.js para ser a 18</br>",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "engines": {
+    "node": "16"
+  },
+  "author": "",
+  "license": "ISC"
+}
